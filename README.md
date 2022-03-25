@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="#demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#utilização">Utilização</a>&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-Frontend">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#backend">Backend</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -25,7 +25,7 @@
 
 <br>
 
-## Tecnologias Frontend
+## Tecnologias-Frontend
 
 * [Node.js](https://nodejs.org/pt-br/)
 * [Json Server](https://www.npmjs.com/package/json-server)
