@@ -23,7 +23,7 @@ public class Book {
 	private Long Id;
 	
 	private String Title;
-	private float Price;
+	private String Price;
 	private String ImageSrc;
 	
 
