@@ -10,22 +10,13 @@
 </h3>
 
 <p align="center">
-  <a href="#demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-Frontend">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#backend">Backend</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## Demonstração
-
-<p align="center">
-  <img alt="web" src="" width="100%">
-</p>
-
-<br>
-
-## Tecnologias-Frontend
+## Frontend
 
 * [Node.js](https://nodejs.org/pt-br/)
 * [Json Server](https://www.npmjs.com/package/json-server)
